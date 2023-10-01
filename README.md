@@ -5,4 +5,6 @@ This comes in two steps. First find the username, the only way you know if the u
 
 Hardest part for me was trying to find the equation that checks the captcha, but regex helped me sovled that problem instantly. Either way, after spending a couple hours learning regex I got the flag. Pretty fun, just lots of waiting .... 
 
+Essentially... a very simple version of Hydra
+
 <img width="556" alt="Screenshot 2023-07-10 at 3 44 08 PM" src="https://github.com/katstews/Capture/assets/112781868/8b2885e6-327f-43e9-bffd-702fb7ba40f0">
